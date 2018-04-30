@@ -1,4 +1,5 @@
 # TemporeNovissimo
+Anamarija Čavka, Andrea Stanić
 
 To Do
 - [x] 0. Prijava tima [nužno]
