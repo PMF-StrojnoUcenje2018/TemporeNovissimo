@@ -11,8 +11,8 @@ To Do
   - Termin prezentacije: Prva srijeda nakon 1. ciklusa kolokvija (9.05. 9:15)
   
 - 2.Praktično ostvarenje projektnog zadatka [25b]
-   - [ ] Izvorni kod i dokumentaciju programskog ostvarenja projekta
-   - [ ] Završno izvješće napisano u obliku istraživačkog rada
+   - [x] Izvorni kod i dokumentaciju programskog ostvarenja projekta
+   - [x] Završno izvješće napisano u obliku istraživačkog rada
    - Rok za predaju: Ponedjeljak u 2. tjednu 2. ciklusa kolokvija (25.06. 23:59)
 
 - 3.Usmeno izlaganje cjelokupnog ostvarenja projektnog zadatka [10b]
